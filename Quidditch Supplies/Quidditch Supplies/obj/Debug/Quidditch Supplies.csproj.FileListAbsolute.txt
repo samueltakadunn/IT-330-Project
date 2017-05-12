@@ -1,0 +1,44 @@
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\bin\Debug\Quidditch Supplies.exe.config
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\bin\Debug\Quidditch Supplies.exe
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\bin\Debug\Quidditch Supplies.pdb
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.csprojResolveAssemblyReference.cache
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\MainWindow.g.cs
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\App.g.cs
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies_MarkupCompile.cache
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies_MarkupCompile.lref
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\MainWindow.baml
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.g.resources
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch_Supplies.Properties.Resources.resources
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.csproj.GenerateResource.Cache
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.exe
+G:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.pdb
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\bin\Debug\Quidditch Supplies.exe.config
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.exe
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.pdb
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\bin\Debug\Quidditch Supplies.exe
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\bin\Debug\Quidditch Supplies.pdb
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.csprojResolveAssemblyReference.cache
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddSupplier.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\MainWindow.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\App.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies_MarkupCompile.cache
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies_MarkupCompile.lref
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddSupplier.baml
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\MainWindow.baml
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.g.resources
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch_Supplies.Properties.Resources.resources
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies.csproj.GenerateResource.Cache
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddService.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddService.baml
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddProduct.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddProduct.baml
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddEmployee.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddEmployee.baml
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddRent.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\AddRent.baml
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\bin\Debug\QuidditchSupplies.accdb
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\ListSupplier.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\Quidditch Supplies_Content.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\ListSupplier.baml
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\ListService.g.cs
+E:\IT 330 Projects\Quidditch Supplies\Quidditch Supplies\obj\Debug\ListService.baml
